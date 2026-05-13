@@ -58,7 +58,7 @@ The dataset contains information about patients who underwent surgery for breast
 - Percentiles  
 
 ### 📌 EDA Visualizations
-![Dashboard](images/powerbi_dashboard.png)
+![](images/eda_results.jpeg)
 ---
 
 ## 📊 Key Findings
