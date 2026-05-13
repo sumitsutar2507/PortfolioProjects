@@ -98,7 +98,7 @@ cancer-survival-analysis-python/
 ├── dataset/
 │   └── haberman.csv
 │
-├── notebook/
+├── python notebook/
 │   └── Python Project EDA on Habermans Survival Dataset.ipynb
 │
 ├── images/
